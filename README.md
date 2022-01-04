@@ -1,14 +1,10 @@
-- 👋 Hi, I’m Hero, aka Alex
-- 👀 I’m interested in programming, what else? I like all kinds, mainly for use in making games. I always have found it fascinating.
-- 🌱 I’m currently learning python! A strange and flexible language. But what can it really do?
-- 💞️ I’m looking to collaborate on video games! Or any kind of project if you like what I do.
-- 📫 How to reach me email, discord, or any of my social medias.
+- 👋 Hi, I’m Hero, aka Alex. I run the website Hero's Code.
+- 👀 I’m interested in programming in C# and Java, for use in video game development.
+- 🌱 I’m currently learning Monogame a video game framework for C#.
+- 💞️ I'm consistently updating my site with my latest games, so check their often!
+- 📫 How to reach me: my site, email, discord, or any of my social medias.
 - Reach me at: 
+- https://humphriesa02.github.io/ - site
 - humphriesa02@gmail.com - email
 - hero#8500 - discord
 - 60094317 - Steam friend code
-
-<!---
-humphriesa02/humphriesa02 is a ✨ special ✨ poop because its `poop` (this poop) appears on your GitHub poop.
-You can click the poop link to take a poop at your changes.
---->
