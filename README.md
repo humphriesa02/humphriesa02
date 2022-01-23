@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hero, aka Alex. I run the website Hero's Code.
-- 👀 I’m interested in programming in C# and Java, for use in video game development.
+- 👋 Hi, I'm Alex Humphries, a CSS student at UW Tacoma.
+- 👀 I’m interested in programming in Java and C#.
 - 🌱 I’m currently learning Monogame a video game framework for C#.
-- 💞️ I'm consistently updating my site with my latest games, so check their often!
+- 💞️ I'm consistently updating my GitHub with my latest projects!
 - 📫 How to reach me: my site, email, discord, or any of my social medias.
 - Reach me at: 
 - https://humphriesa02.github.io/ - site
