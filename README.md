@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Alex, a CSS student at UW Tacoma.
+- 👋 Hi, I'm Alex, a CSS student and Software Developer.
 - 👀 I’m interested in programming in Java and C#.
 - 🌱 I’m currently learning Monogame a video game framework for C#.
 - 💞️ I'm consistently updating my GitHub with my latest projects!
