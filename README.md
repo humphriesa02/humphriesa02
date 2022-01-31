@@ -1,10 +1,9 @@
-- 👋 Hi, I'm Alex Humphries, a CSS student at UW Tacoma.
+- 👋 Hi, I'm Alex, a CSS student at UW Tacoma.
 - 👀 I’m interested in programming in Java and C#.
 - 🌱 I’m currently learning Monogame a video game framework for C#.
 - 💞️ I'm consistently updating my GitHub with my latest projects!
 - 📫 How to reach me: my site, email, discord, or any of my social medias.
 - Reach me at: 
 - https://humphriesa02.github.io/ - site
-- humphriesa02@gmail.com - email
 - hero#8500 - discord
 - 60094317 - Steam friend code
