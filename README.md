@@ -14,5 +14,5 @@ These are the technologies that I consider myself experienced in. I hope to cont
 
 
 ## Get in touch
-If you're interested in connecting with me or collaborating on a project, feel free to reach out! You can find me on LinkedIn or Twitter - let's chat!
+If you're interested in connecting with me or collaborating on a project, feel free to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/alex-humphries15/) or [Twitter](https://twitter.com/heros_code) - let's chat!
 ![pangolin_gif](https://user-images.githubusercontent.com/60449984/219520182-d5ebc373-c806-4737-98ea-c262b5f682e9.gif)
