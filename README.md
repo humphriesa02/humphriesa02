@@ -4,7 +4,7 @@ I also go by Hero, or sometimes Hero's Code. I'm a CS student and 🎮[amateur g
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=humphriesa02)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I'm working on
-Right now I'm working on [Pangolin Knight](https://humphriesa02.github.io/PangolinKnight), a 2D ARPG web game that pays homage to The Legend of Zelda Link's Awakening. When I'm not doing that, I'm dabbling in the world of Unreal Engine.
+Right now I'm working on a new game in Unity! Keep an eye out for it. When I'm not doing that, I'm dabbling in the world of Unreal Engine.
 
 ## What I'm experienced in
 These are the technologies that I consider myself experienced in. I hope to continue to apply these skills to real world applications.
