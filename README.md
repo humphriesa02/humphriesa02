@@ -1,5 +1,5 @@
 # (❁´◡\`❁) Hi, I'm Alex (❁´◡\`❁)
-I also go by Hero, or sometimes Hero's Code. I'm a CS student and 🎮[amateur game dev](https://alextheher0.itch.io/)🎮.
+I also go by Hero, or sometimes Hero's Code. I'm a software developer by day and 🎮[amateur game dev](https://alextheher0.itch.io/)🎮 by night.
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=humphriesa02)](https://github.com/anuraghazra/github-readme-stats)
 
