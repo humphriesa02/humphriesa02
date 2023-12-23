@@ -4,10 +4,10 @@ I also go by Hero, or sometimes Hero's Code. I'm a software developer by day and
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=humphriesa02)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I'm working on
-Right now I'm working on a new game in Unity! Keep an eye out for it. When I'm not doing that, I'm dabbling in the world of Unreal Engine.
+Right now I'm working on a new game in Uneal! Keep an eye out for it. When I'm not doing that, I'm coding websites.
 
 ## What I'm experienced in
-These are the technologies that I consider myself experienced in. I hope to continue to apply these skills to real world applications.
+These are the technologies that I consider myself experienced in. I hope to continue to apply these skills to real-world applications.
 <br>
 <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" alt="AWS" width="75px" height="75px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="75px" height="75px"> <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="75px" height="75px"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="React" width="75px" height="75px"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" alt="Python" width="75px" height="75px"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" alt="Java" width="75px" height="75px"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" alt="C#" width="75px" height="75px"> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/unity.svg" alt="Unity" width="75px" height="75px">
 
