@@ -4,7 +4,7 @@ I also go by Hero, or sometimes Hero's Code. I'm a software developer by day and
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=humphriesa02)](https://github.com/anuraghazra/github-readme-stats)
 
 ## What I'm working on
-Right now I'm working on a new game in Unreal! Keep an eye out for it. When I'm not doing that, I'm coding websites.
+Livin'. L-I-V-I-N.
 
 ## What I'm experienced in
 These are the technologies that I consider myself experienced in. I hope to continue to apply these skills to real-world applications.
